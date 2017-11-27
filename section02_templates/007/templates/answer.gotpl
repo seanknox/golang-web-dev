@@ -1,0 +1,5 @@
+****** Dynamic Data Time *******
+
+The answer to life is: {{.primary}}
+
+Or it might be: {{.secondary}}

@@ -1,0 +1,4 @@
+My friends are:
+{{range .}}
+{{.}}
+{{end}}
